@@ -9,7 +9,7 @@
    ────────────────────────────────────────────────────────────────── */
 const CONFIG = {
   // --- Wedding Info ---
-  groomName: "Mena",
+  groomName: "Mina",
   brideName: "Madona",
   groomNameAr: "مينا",
   brideNameAr: "مادونا",
